@@ -1,0 +1,3 @@
+rootProject.name = 'PhimNOW'
+
+include ':app'
