@@ -1,0 +1,1217 @@
+{
+  "DaoDien" : {
+    "DD01" : {
+      "TenDD" : "Ruben Fleischer"
+    },
+    "DD02" : {
+      "TenDD" : "Mathieu Turi"
+    },
+    "DD03" : {
+      "TenDD" : "Christian Rivers"
+    },
+    "DD04" : {
+      "TenDD" : "Phil Johnston"
+    },
+    "DD05" : {
+      "TenDD" : "Rich Moore"
+    },
+    "DD06" : {
+      "TenDD" : "David Kerr"
+    },
+    "DD07" : {
+      "TenDD" : "David Yates"
+    },
+    "DD08" : {
+      "TenDD" : "Donovan Marsh"
+    },
+    "DD09" : {
+      "TenDD" : "Yoo Young-Seon"
+    },
+    "DD10" : {
+      "TenDD" : "Rene Liu"
+    },
+    "DD11" : {
+      "TenDD" : "Lee Jang-hoon"
+    },
+    "DD12" : {
+      "TenDD" : "Shane Black"
+    },
+    "DD13" : {
+      "TenDD" : "Stephen Susco"
+    },
+    "DD14" : {
+      "TenDD" : "Kim Sung-hoon"
+    },
+    "DD15" : {
+      "TenDD" : "Bradley Cooper"
+    },
+    "DD16" : {
+      "TenDD" : "Russo Brothers"
+    },
+    "DD17" : {
+      "TenDD" : "Ahn Gil Ho"
+    }
+  },
+  "DaoDien_Phim" : {
+    "DDP01" : {
+      "IdDD" : "DD01",
+      "IdPhim" : "P01"
+    },
+    "DDP02" : {
+      "IdDD" : "DD02",
+      "IdPhim" : "P02"
+    },
+    "DDP03" : {
+      "IdDD" : "DD03",
+      "IdPhim" : "P03"
+    },
+    "DDP04" : {
+      "IdDD" : "DD04",
+      "IdPhim" : "P04"
+    },
+    "DDP05" : {
+      "IdDD" : "DD05",
+      "IdPhim" : "P04"
+    },
+    "DDP06" : {
+      "IdDD" : "DD06",
+      "IdPhim" : "P05"
+    },
+    "DDP07" : {
+      "IdDD" : "DD07",
+      "IdPhim" : "P06"
+    },
+    "DDP08" : {
+      "IdDD" : "DD08",
+      "IdPhim" : "P07"
+    },
+    "DDP09" : {
+      "IdDD" : "DD09",
+      "IdPhim" : "P08"
+    },
+    "DDP10" : {
+      "IdDD" : "DD10",
+      "IdPhim" : "P09"
+    },
+    "DDP11" : {
+      "IdDD" : "DD11",
+      "IdPhim" : "P10"
+    },
+    "DDP12" : {
+      "IdDD" : "DD12",
+      "IdPhim" : "P11"
+    },
+    "DDP13" : {
+      "IdDD" : "DD13",
+      "IdPhim" : "P12"
+    },
+    "DDP14" : {
+      "IdDD" : "DD14",
+      "IdPhim" : "P13"
+    },
+    "DDP15" : {
+      "IdDD" : "DD15",
+      "IdPhim" : "P14"
+    },
+    "DDP16" : {
+      "IdDD" : "DD16",
+      "IdPhim" : "P15"
+    },
+    "DDP17" : {
+      "IdDD" : "DD17",
+      "IdPhim" : "P20"
+    }
+  },
+  "DienVien" : {
+    "DV01" : {
+      "TenDV" : "Tom Hardy"
+    },
+    "DV02" : {
+      "TenDV" : "Riz Ahmed"
+    },
+    "DV03" : {
+      "TenDV" : "Michelle Williams"
+    },
+    "DV04" : {
+      "TenDV" : "Brittany Ashworth"
+    },
+    "DV05" : {
+      "TenDV" : "Javier Botet"
+    },
+    "DV06" : {
+      "TenDV" : "Robert Sheehan"
+    },
+    "DV07" : {
+      "TenDV" : "Stephen Lang"
+    },
+    "DV08" : {
+      "TenDV" : "Hugo Weaving"
+    },
+    "DV09" : {
+      "TenDV" : "Hera Hilmar"
+    },
+    "DV10" : {
+      "TenDV" : "Gal Gadot"
+    },
+    "DV11" : {
+      "TenDV" : "John C. Reilly"
+    },
+    "DV12" : {
+      "TenDV" : "Sarah Silverman"
+    },
+    "DV13" : {
+      "TenDV" : "Rowan Atkinson"
+    },
+    "DV14" : {
+      "TenDV" : "Johnny Depp"
+    },
+    "DV15" : {
+      "TenDV" : "Ezra Miller"
+    },
+    "DV16" : {
+      "TenDV" : "Katherine Waterston"
+    },
+    "DV17" : {
+      "TenDV" : "Common"
+    },
+    "DV18" : {
+      "TenDV" : "Gary Oldman"
+    },
+    "DV19" : {
+      "TenDV" : "Son Na Eun"
+    },
+    "DV20" : {
+      "TenDV" : "Seo Young Hee"
+    },
+    "DV21" : {
+      "TenDV" : "Park Min-Ji"
+    },
+    "DV22" : {
+      "TenDV" : "Lee Tae-Ri"
+    },
+    "DV23" : {
+      "TenDV" : "Châu Động Vũ"
+    },
+    "DV24" : {
+      "TenDV" : "Tỉnh Bách Nhiên"
+    },
+    "DV25" : {
+      "TenDV" : "Zheming Qu"
+    },
+    "DV26" : {
+      "TenDV" : "Son Ye-Jin"
+    },
+    "DV27" : {
+      "TenDV" : "Ko Chang-seok"
+    },
+    "DV28" : {
+      "TenDV" : "So Ji Sub"
+    },
+    "DV29" : {
+      "TenDV" : "Lee Joon Hyuk"
+    },
+    "DV30" : {
+      "TenDV" : "Son Yeo-Eun"
+    },
+    "DV31" : {
+      "TenDV" : "Sterling K. Brown"
+    },
+    "DV32" : {
+      "TenDV" : "Keegan Michael Key"
+    },
+    "DV33" : {
+      "TenDV" : "Boyd Holbrook"
+    },
+    "DV34" : {
+      "TenDV" : "Colin Woodell"
+    },
+    "DV35" : {
+      "TenDV" : "Betty Gabriel"
+    },
+    "DV36" : {
+      "TenDV" : "Chelsea Alden"
+    },
+    "DV37" : {
+      "TenDV" : "Alexander Ward"
+    },
+    "DV38" : {
+      "TenDV" : "Jang Dong-gun"
+    },
+    "DV39" : {
+      "TenDV" : "Hyun Bin"
+    },
+    "DV40" : {
+      "TenDV" : "Bradley Cooper"
+    },
+    "DV41" : {
+      "TenDV" : "Sam Elliott"
+    },
+    "DV42" : {
+      "TenDV" : "Lady Gaga"
+    },
+    "DV43" : {
+      "TenDV" : "Andrew Dice"
+    },
+    "DV44" : {
+      "TenDV" : "Rafi Gavron"
+    },
+    "DV45" : {
+      "TenDV" : "Anthony Ramos"
+    },
+    "DV46" : {
+      "TenDV" : "Robert Downey Jr"
+    },
+    "DV47" : {
+      "TenDV" : "Chris Hemsworth"
+    },
+    "DV48" : {
+      "TenDV" : "Chris Evans"
+    },
+    "DV49" : {
+      "TenDV" : "Chae Seo Jin"
+    },
+    "DV50" : {
+      "TenDV" : "Yong Joon Hyung"
+    },
+    "DV51" : {
+      "TenDV" : "Kim Min Young"
+    },
+    "DV52" : {
+      "TenDV" : "Park Shin Hye"
+    },
+    "DV53" : {
+      "TenDV" : "Kim Eui-Sung"
+    },
+    "DV54" : {
+      "TenDV" : "Park Hoon"
+    },
+    "DV55" : {
+      "TenDV" : "Lee Hak-Joo"
+    }
+  },
+  "DienVien_Phim" : {
+    "DVP01" : {
+      "IdDV" : "DV01",
+      "IdPhim" : "P01"
+    },
+    "DVP02" : {
+      "IdDV" : "DV02",
+      "IdPhim" : "P01"
+    },
+    "DVP03" : {
+      "IdDV" : "DV03",
+      "IdPhim" : "P01"
+    },
+     "DVP04" : {
+       "IdDV" : "DV04",
+       "IdPhim" : "P02"
+     },
+     "DVP05" : {
+       "IdDV" : "DV05",
+       "IdPhim" : "P02"
+     },
+     "DVP06" : {
+       "IdDV" : "DV06",
+       "IdPhim" : "P03"
+     },
+     "DVP07" : {
+       "IdDV" : "DV07",
+       "IdPhim" : "P03"
+     },
+     "DVP08" : {
+       "IdDV" : "DV08",
+       "IdPhim" : "P03"
+     },
+     "DVP09" : {
+       "IdDV" : "DV09",
+       "IdPhim" : "P03"
+     },
+     "DVP10" : {
+       "IdDV" : "DV10",
+       "IdPhim" : "P04"
+     },
+     "DVP11" : {
+       "IdDV" : "DV11",
+       "IdPhim" : "P04"
+     },
+     "DVP12" : {
+       "IdDV" : "DV12",
+       "IdPhim" : "P04"
+     },
+     "DVP13" : {
+       "IdDV" : "DV13",
+       "IdPhim" : "P05"
+     },
+     "DVP14" : {
+       "IdDV" : "DV14",
+       "IdPhim" : "P06"
+     },
+     "DVP15" : {
+       "IdDV" : "DV15",
+       "IdPhim" : "P06"
+     },
+     "DVP16" : {
+       "IdDV" : "DV16",
+       "IdPhim" : "P06"
+     },
+     "DVP17" : {
+       "IdDV" : "DV17",
+       "IdPhim" : "P07"
+     },
+     "DVP18" : {
+       "IdDV" : "DV18",
+       "IdPhim" : "P07"
+     },
+     "DVP19" : {
+       "IdDV" : "DV19",
+       "IdPhim" : "P08"
+     },
+     "DVP20" : {
+       "IdDV" : "DV20",
+       "IdPhim" : "P08"
+     },
+     "DVP21" : {
+       "IdDV" : "DV21",
+       "IdPhim" : "P08"
+     },
+     "DVP22" : {
+       "IdDV" : "DV22",
+       "IdPhim" : "P08"
+     },
+     "DVP23" : {
+       "IdDV" : "DV23",
+       "IdPhim" : "P09"
+     },
+     "DVP24" : {
+       "IdDV" : "DV24",
+       "IdPhim" : "P09"
+     },
+     "DVP25" : {
+       "IdDV" : "DV25",
+       "IdPhim" : "P09"
+     },
+     "DVP26" : {
+       "IdDV" : "DV26",
+       "IdPhim" : "P10"
+     },
+     "DVP27" : {
+       "IdDV" : "DV27",
+       "IdPhim" : "P10"
+     },
+     "DVP28" : {
+       "IdDV" : "DV28",
+       "IdPhim" : "P10"
+     },
+     "DVP29" : {
+       "IdDV" : "DV29",
+       "IdPhim" : "P10"
+     },
+     "DVP30" : {
+       "IdDV" : "DV30",
+       "IdPhim" : "P10"
+     },
+     "DVP31" : {
+       "IdDV" : "DV31",
+       "IdPhim" : "P11"
+     },
+     "DVP32" : {
+       "IdDV" : "DV32",
+       "IdPhim" : "P11"
+     },
+     "DVP33" : {
+       "IdDV" : "DV33",
+       "IdPhim" : "P11"
+     },
+     "DVP34" : {
+       "IdDV" : "DV34",
+       "IdPhim" : "P12"
+     },
+     "DVP35" : {
+       "IdDV" : "DV35",
+       "IdPhim" : "P12"
+     },
+     "DVP36" : {
+       "IdDV" : "DV36",
+       "IdPhim" : "P12"
+     },
+     "DVP37" : {
+       "IdDV" : "DV37",
+       "IdPhim" : "P12"
+     },
+     "DVP38" : {
+       "IdDV" : "DV38",
+       "IdPhim" : "P13"
+     },
+     "DVP39" : {
+       "IdDV" : "DV39",
+       "IdPhim" : "P13"
+     },
+     "DVP40" : {
+       "IdDV" : "DV40",
+       "IdPhim" : "P14"
+     },
+     "DVP41" : {
+       "IdDV" : "DV41",
+       "IdPhim" : "P14"
+     },
+     "DVP42" : {
+       "IdDV" : "DV42",
+       "IdPhim" : "P14"
+     },
+     "DVP43" : {
+       "IdDV" : "DV43",
+       "IdPhim" : "P14"
+     },
+     "DVP44" : {
+       "IdDV" : "DV44",
+       "IdPhim" : "P14"
+     },
+     "DVP45" : {
+       "IdDV" : "DV45",
+       "IdPhim" : "P14"
+     },
+     "DVP46" : {
+       "IdDV" : "DV46",
+       "IdPhim" : "P15"
+     },
+     "DVP47" : {
+       "IdDV" : "DV47",
+       "IdPhim" : "P15"
+     },
+     "DVP48" : {
+       "IdDV" : "DV48",
+       "IdPhim" : "P15"
+     },
+     "DVP49" : {
+       "IdDV" : "DV49",
+       "IdPhim" : "P19"
+     },
+     "DVP50" : {
+       "IdDV" : "DV50",
+       "IdPhim" : "P19"
+     },
+     "DVP51" : {
+       "IdDV" : "DV51",
+       "IdPhim" : "P19"
+     },
+     "DVP52" : {
+       "IdDV" : "DV39",
+       "IdPhim" : "P20"
+     },
+     "DVP53" : {
+       "IdDV" : "DV52",
+       "IdPhim" : "P20"
+     },
+     "DVP54" : {
+       "IdDV" : "DV53",
+       "IdPhim" : "P20"
+     },
+     "DVP55" : {
+       "IdDV" : "DV54",
+       "IdPhim" : "P20"
+     },
+     "DVP56" : {
+       "IdDV" : "DV55",
+       "IdPhim" : "P20"
+     }
+  },
+  "LichSu" : {
+    "LS01" : {
+      "IdPhim" : "P01",
+      "IdUser" : "U01"
+    }
+  },
+  "Loai" : {
+    "L01" : {
+      "TenLoai" : "Phim lẻ"
+    },
+    "L02" : {
+      "TenLoai" : "Phim bộ"
+    }
+  },
+  "Phim" : {
+    "P01" : {
+      "Image" : "http://image.phimmoi.net/post/2018/10/11/venom-15380315339186.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Venom",
+      "TenVN" : "Quái vật Venom",
+      "TomTat" : "Venom đã hé lộ thân phận nhân vật phản diện cực kỳ nguy hiểm và kinh hãi khi tung trailer chính thức khắp thế giới làm điên đảo fan hâm mộ trong thế giới của Marvel.Chàng phóng viên Eddie Brock bí mật theo dõi âm mưu xấu xa của một tổ chức và bị nhiễm phải Symbiote và trở thành quái vật Venom đầy nguy hiểm."
+    },
+    "P02" : {
+      "Image" : "http://media.phimbathu.com/uploads/2018/12/640/2-201812521.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Hostile",
+      "TenVN" : "Ngày sinh tồn",
+      "TomTat" : "Nếu bạn trở thành số ít loài người còn sống sót khi dịch bệnh bùng nổ, liệu bạn sẽ là người may mắn, hay là kẻ phải mang nỗi bất hạnh? Sau khi người thương biến mất, Juliette từ một cô nàng ngỗ ngược, cô trở thành một chiến binh chiến đấu với những sinh vật đáng sợ bởi căn bệnh quái ác khiến cho nhân loại đang đứng trước bờ vực của sự diệt vong. Trải qua rất nhiều khó khăn, thử thách, liệu hạnh phúc có mỉm cười với Juliette, và Trái đất có được giải cứu khỏi đám quái vật mang trong mình mầm bệnh nguy hiểm đó?"
+    },
+    "P03" : {
+      "Image" : "http://image.phimmoi.net/post/2018/12/18/co-may-tu-than.png",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Mortal engines",
+      "TenVN" : "Cỗ máy tử thần",
+      "TomTat" : "Cỗ Máy Tử Thần lấy bối cảnh thế giới hậu tận thế khi các thành phố bắt đầu tàn lụi, con người phải tập thích nghi để tồn tại trong hoàn cảnh các nguồn tài nguyên đã cạn kiệt. Tại Traction City, anh chàng Tom Natsworthy gặp gỡ một cô gái ngoại lai bí ẩn tên Hester Shaw. Hai nhân vật với hai nét tính cách hoàn toàn đối lập vô tình bị đẩy vào cuộc hành trình đương đầu với các thế lực nguy hiểm để giành lấy quyền lực và tiếp tục sự sống."
+    },
+    "P04" : {
+      "Image" : "http://image.phimmoi.net/post/2018/12/21/unnamed.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Wreck-it Ralph 2: Ralph breaks the internet",
+      "TenVN" : "Rap - Phơ đập phá 2: Phá đảo thế giới ảo",
+      "TomTat" : "Sáu năm sau phần 1, một sự kiện thay đổi hoàn toàn cuộc sống của đôi bạn thân Ralph và Vanellope. Máy tính đã kết nối wifi, giờ đây họ bắt đầu cuộc phiêu lưu mới trên mạng Internet.\nVì thiết bị trò chơi bị hỏng, anh chàng đập phá Ralph và cô bé Vanellope phải vào thế giới internet để mua đồ mới. Tất nhiên, muốn được như ý thì họ phải làm nhiều việc để kiếm đủ tiền. Cũng chính vì thế mà hai anh em được gặp gỡ và biết được nhiều điều mới lạ cùng một số người bạn vô cùng đặc biệt."
+    },
+    "P05" : {
+      "Image" : "http://image.phimmoi.net/post/2018/10/30/johnny-english-tai-xuat-giang-ho-c13-15378908856020.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Johnny English 3: Strikes again",
+      "TenVN" : "Johnny English 3: Tái xuất giang hồ",
+      "TomTat" : "JOHNNY ENGLISH: TÁI XUẤT GIANG HỒ là phần thứ ba của loạt phim hài Johnny English, với Rowan Atkinson trong vai một gã bỗng dưng trở thành một điệp viên bí mật. Cuộc phiêu lưu mới bắt đầu khi một vụ điều tra hệ thống an ninh mạng cho thấy danh tính của tất cả các điệp viên đang hoạt động tại Anh, và Johnny là hy vọng cuối cùng để điều tra bí mật ấy.\nDù được biết là một điệp viên nghỉ hưu nhưng đây là lần đầu tiên gã giang hồ này bắt tay động với sứ mệnh tìm kiếm kẻ tấn công. Là một người với kỹ năng ít ỏi và năng lực hạn chế, Johnny English có phải vượt qua được những thách thức trong thời buổi công nghệ hiện đại để hoàn thành sứ mệnh này thành công hay không?"
+    },
+    "P06" : {
+      "Image" : "http://image.phimmoi.net/post/2018/11/15/cd017d37-e30c-4894-8882-3b86f4840dd5.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Fantastic beasts 2: The crimes of Grindelwald",
+      "TenVN" : "Sinh vật huyền bí 2 : Tội ác của Grindelwald",
+      "TomTat" : "Sau thành công của phần đầu, 'Sinh Vật Huyền Bí: Tội Ác Của Grindelwald' tiếp tục mang đến cho người xem cái nhìn sâu sắc về một thế giới phù thủy đen tối và dữ dội hơn cùng cuộc chiến nảy lửa giữa vị pháp sư đáng kính Albus Dumbledore (Jude Law) và phù thủy bóng tối xấu xa Gellert Grindelwald (Johnny Depp). Phần 2 xoay quanh cuộc chiến giữa hai phe để truy tìm và tranh giành các Bảo bối Tử thần. Các phù thủy sẽ phải làm gì khi đứng giữa 2 sự lựa chọn: hòa bình hay chiến tranh với thế giới người phàm?”"
+    },
+    "P07" : {
+      "Image" : "http://image.phimmoi.net/post/2018/12/10/maxresdefault.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Hunter killer",
+      "TenVN" : "Mật vụ giải cứu",
+      "TomTat" : "'Mật Vụ Giải Cứu' xoay quanh Joe Glass (Gerard Butler ) – một thuyền trưởng tàu ngầm Mỹ, phát hiện ra một âm mưu đảo chính quân sự và bắt cóc tổng thống Nga, được khởi sướng bởi một vị tướng phản trắc Sergi Àndropoyov (Michael Nyqvist). Vì sao Sergi Àndropoyov lại bắt cóc Tổng thống? Liệu Joe Class cùng những hậu vệ của mình có giải cứu được Tổng thống và ngăn chặn chiến tranh Thế Giới thứ 3?"
+    },
+    "P08" : {
+      "Image" : "http://image.phimmoi.net/post/2018/12/02/xxxx.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Hàn Quốc",
+      "TenENG" : "The wrath",
+      "TenVN" : "Ma nữ báo oán",
+      "TomTat" : "Bộ phim kinh dị siêu kinh điển The Wrath cách đây hơn 30 năm của Hàn Quốc sẽ được remake. Bộ phim do Seo Young Hee và Na Eun (Apink) thủ vai chính kể về bi kịch của gia tộc họ Lee - gia tộc có ba cậu con trai nhưng tất cả đều chết một cách bí ẩn vào đúng đêm tân hôn."
+    },
+    "P09" : {
+      "Image" : "http://image.phimmoi.net/post/2018/06/25/20180429103305366.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Trung Quốc",
+      "TenENG" : "Us and them",
+      "TenVN" : "Chúng ta của sau này",
+      "TomTat" : "Chúng Ta Của Sau Này được chuyển thể từ tiểu thuyết cùng tên của Lưu Nhược Anh xoay quanh một đôi trẻ đang sống nơi xứ người. 10 năm trước, Lâm Kiến Thanh (Tỉnh Bách Nhiên) và Phương Tiểu Hiểu (Châu Đông Vũ) tình cờ gặp nhau trên một chuyến tàu khi về quê ăn Tết. Họ gặp nhau, yêu nhau, và cùng nhau phấn đấu vì cuộc sống. Nhưng cuối cùng, thực tế khắc nghiệt của cuộc sống làm cho họ phải cách xa nhau. 10 năm sau, họ lại gặp nhau. Liệu những ký ức ngày xưa có đưa họ quay về bên nhau lần nữa?"
+    },
+    "P10" : {
+      "Image" : "http://image.phimmoi.net/post/2018/04/27/06-1520528191731787975626.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Hàn Quốc",
+      "TenENG" : "Be with you",
+      "TenVN" : "Và em sẽ đến",
+      "TomTat" : "Phim được chuyển thể từ cuốn tiểu thuyết nổi tiếng cùng tên của tác giả Takuji Ichikawa. Được phát hành tại Việt Nam với tựa ‘Em sẽ đến cùng cơn mưa’ là một trong những cuốn tiểu thuyết văn học Nhật được yêu thích. "
+    },
+    "P11" : {
+      "Image" : "http://image.phimmoi.net/post/2018/12/10/the-predator.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "The Predator",
+      "TenVN" : "Quái thú vô hình",
+      "TomTat" : "Là phần thứ tư của loạt phim Predator, phim là nỗ lực tái khởi động tiếp theo mà hãng Fox dành cho thương hiệu phim quái vật. Theo mô tả của đạo diễn Shane Black, câu chuyện trong phim diễn ra giữa tập Predator 2 (1990) và Predators (2010). Các ngôi sao tham gia dự án có Boyd Holbrook, Olivia Munn, Keegan-Michael Key, Jacob Tremblay, Thomas Jane…"
+    },
+    "P12" : {
+      "Image" : "http://image.phimmoi.net/post/2018/10/18/maxresdefault-2.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Unfriended 2: Dark web",
+      "TenVN" : "Hủy kết bạn 2: Web ngầm",
+      "TomTat" : "Unfriended: Dark Web: Khi 20-cái gì đó tìm thấy một bộ nhớ cache của các tập tin ẩn trên máy tính xách tay mới của mình, anh ta và bạn bè của mình vô tình đẩy vào độ sâu của web tối. Họ sớm khám phá ra một người nào đó đã theo dõi từng bước di chuyển của họ và sẽ đi đến độ dài không thể tưởng tượng để bảo vệ web tối."
+    },
+    "P13" : {
+      "Image" : "http://image.phimmoi.net/post/2018/11/23/d.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Hàn Quốc",
+      "TenENG" : "Rampant",
+      "TenVN" : "Dạ quỷ",
+      "TomTat" : "Dạ Quỷ là một câu chuyện về hoàng tử Lee (do Huyn Bin thủ vai) ở triều đại Joseon, người nổi tiếng có võ thuật cao cường. Trở về sau khoảng thời gian dài bị đày ải bởi nhà Thanh (Trung Quốc), Ngài đau lòng chứng kiến cả quê hương chìm trong một đại dịch của những “ác quỷ bóng đêm”. Liệu rằng vị hoàng tử Lee có ngăn được cơn cuồng nộ của đội quân quỷ dữ này và cứu được giang sơn?"
+    },
+    "P14" : {
+      "Image" : "http://image.phimmoi.net/post/2018/12/02/mzryaqd.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "A star is born",
+      "TenVN" : "Vì sao vụt sáng",
+      "TomTat" : "Bộ phim có nội dung xoay quanh chuyện tình của chàng nghệ sỹ nhạc đồng quê Jackson Maine (Bradley Cooper) nổi tiếng nhưng mắc chứng nghiện rượu và ca sỹ vô danh Ally (Lady GaGa) với giọng ca đầy nội lực nhưng chưa thể tỏa sáng. Gặp Ally tại một quán bar xa lạ, Jackson sớm bị giọng hát đầy lôi cuốn của cô chinh phục."
+    },
+    "P15" : {
+      "Image" : "http://image.phimmoi.net/post/2018/04/20/sieu-thu-cuong-no-tonghoptin24h-1-3.jpg",
+      "Loai" : "L01",
+      "NamSX" : 2018,
+      "QuocGia" : "Âu - Mỹ",
+      "TenENG" : "Avengers 3: Infinity war",
+      "TenVN" : "Biệt đội siêu anh hùng 3: Cuộc chiến vô cực",
+      "TomTat" : "Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn."
+    },
+    "P16" : {
+      "Image" : "http://image.phimmoi.net/post/2018/10/17/bg-01-rgl50050.jpg",
+      "Loai" : "L02",
+      "NamSX" : 2018,
+      "QuocGia" : "Nhật Bản",
+      "TenENG" : "Tokyo ghoul 4",
+      "TenVN" : "Ngạ quỷ vùng Tokyo 4",
+      "TomTat" : "Tokyo Ghoul: re là phần 3 của bộ anime Tokyo Ghoul do Sui Ishida sáng tác. Tokyo Ghoul: re vẫn xoay quanh cuộc chiến giữa con người (tiêu biểu là CCG) với quỷ ăn thịt (Ghoul - tiêu biểu là Aogiri) nhưng khác với phần trước, cuộc chiến được nhìn nhận dưới con mắt của con người (các thanh tra) thay vì quỷ ăn thịt (ở Anteiku's Coffee) như series đầu."
+    },
+    "P17" : {
+      "Image" : "http://media.phimbathu.com/uploads/T/T8/tinh%20than%20biem%201.jpg",
+      "Loai" : "L02",
+      "NamSX" : 2018,
+      "QuocGia" : "Trung Quốc",
+      "TenENG" : "Stellar transformation",
+      "TenVN" : "Tinh thần biến",
+      "TomTat" : "Tần Vũ đã gặp duyên kỳ ngộ học được Tinh Thần Biến công pháp của Lôi Vệ, gian khổ tu luyện để làm cho người thân mình an toàn, nhờ sự giúp sức của Lan thúc(chú của người yêu) và Nghịch Ương tiên đế để phi thăng lên tiên giới và thần giới, nhưng rồi tại thần giới tranh đấu với cả nhà thần vương của Lôi Phạt thành và Lôi Phạt thiên tôn, cuối cùng nhờ sự giúp sức của Lôi Mông (sau này là nhị sư huynh của Tần Vũ và cũng là Lâm Lôi trong truyện Bàn Long cùng tác giả) phát triển lên sau này đã sáng tạo ra Tần Mông vũ trụ của riêng mình.Tinh Thần Biến mang đậm sắc thái tiên, thần, lấy tinh thần dũng cảm vượt khó khăn, cố gắng đến cực hạn của bản thân nhân vật chính để đi tìm được tình yêu của mình."
+    },
+    "P18" : {
+      "Image" : "https://www.opptrends.com/wp-content/uploads/2017/03/ReLIFE-Season-2-Release-Date.jpg",
+      "Loai" : "L02",
+      "NamSX" : 2018,
+      "QuocGia" : "Nhật Bản",
+      "TenENG" : "ReLIFE 2",
+      "TenVN" : "Làm lại cuộc đời 2",
+      "TomTat" : "Phần kết câu chuyện ReLIFE của Arata Kaizaki – 27 tuổi – FA – Thất nghiệp, và chỉ sống nhờ vào tiền chi phí mà bố mẹ đưa. Trước khi thất nghiệp, Arata từng có một công việc (chỉ trong 3 tháng) nhưng đã nghỉ việc, cho đến giờ vẫn không tìm thấy được việc làm ổn định. Vào một đêm, sau khi Arata nhậu cùng bọn bạn thời cấp 3, anh gặp Ryou Yoake, người này đã đưa Arata một viên thuốc mà có thể làm cho mình quay trở về 17 tuổi để làm lại cuộc đời. Để uống viên thuốc, Arata đã phải tham gia một thử nghiệm, trở thành học sinh và đi học một trường cấp 3, anh đã gặp Chizuru và một số người khác. Trong 1 năm duy trì tác dụng của viên thuốc, Arata quyết định sẽ tìm ra một phần hạnh phúc trong cuộc sống của mình. Vậy sau 1 năm sẽ thế nào?"
+    },
+    "P19" : {
+      "Image" : "https://img.khoai.tv/images/movies/21200/bg_01_uem68153.jpg",
+      "Loai" : "L02",
+      "NamSX" : 2018,
+      "QuocGia" : "Hàn Quốc",
+      "TenENG" : "Coffee, please",
+      "TenVN" : "Tiệm cà phê ma thuật",
+      "TomTat" : "Bộ phim này nói về một người phụ nữ xinh đẹp, thừa cân, sau khi nhấm nháp một tách cà phê ma thuật, trở thành một người đẹp, và một người đàn ông đẹp trai​, cô tự cảm thấy hứng thú hơn về cuộc sống của mình, cô không tin vào tình yêu của mình, câu chuyện gì xảy ra với tách cà phê mà cô uống?"
+    },
+    "P20" : {
+      "Image" : "https://kenh14cdn.com/2018/12/4/photo-1-15439091661331169119936.jpg",
+      "Loai" : "L02",
+      "NamSX" : 2018,
+      "QuocGia" : "Hàn Quốc",
+      "TenENG" : "Memories of the Alhambra",
+      "TenVN" : "Ký ức Alhambra",
+      "TomTat" : "Phim Ký Ức Alhambra​ là câu chuyện tình yêu trên đất Tây Ban Nha giữa chàng CEO điển trai Yoo Jin Woo (Hyun Bin) và nữ chủ nhà trọ Jung Hee Joo (Park Shin Hye). Ban đầu đến Tây Ban Nha du học để theo đuổi con đường âm nhạc, thế nhưng Jung Hee Joo đã phải tạm gác giấc mơ của mình sau khi bố mẹ cô đột ngột qua đời ở quê nhà. Từ bỏ đam mê, cô bắt đầu làm việc không ngừng nghỉ để lo cho cuộc sống của mình lẫn người thân.​"
+    }
+  },
+  "Tap" : {
+    "T01" : {
+      "IdPhim" : "P01",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS12ZW5vbS12ZW5vbS0yMDE4LTEwNjgz"
+    },
+    "T02" : {
+      "IdPhim" : "P02",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1uZ2F5LXNpbmgtdG9uLWhvc3RpbGUtMjAxOC0xMDk0MA=="
+    },
+    "T03" : {
+      "IdPhim" : "P03",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1jby1tYXktdHUtdGhhbi1tb3J0YWwtZW5naW5lcy0yMDE4LTEwOTM4"
+    },
+    "T04" : {
+      "IdPhim" : "P04",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1yYXAtLS1waG8tZGFwLXBoYS0yLXBoYS1kYW8tdGhlLWdpb2ktYW8td3JlY2staXQtcmFscGgtMi1yYWxwaC1icmVha3MtdGhlLWludGVybmV0LTIwMTgtMTA5MzI="
+    },
+    "T05" : {
+      "IdPhim" : "P05",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1qb2hubnktZW5nbGlzaC0zLXRhaS14dWF0LWdpYW5nLWhvLWpvaG5ueS1lbmdsaXNoLTMtc3RyaWtlcy1hZ2Fpbi0yMDE4LTk3NTY="
+    },
+    "T06" : {
+      "IdPhim" : "P06",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1zaW5oLXZhdC1odXllbi1iaS0yLXRvaS1hYy1jdWEtZ3JpbmRlbHdhbGQtZmFudGFzdGljLWJlYXN0cy0yLXRoZS1jcmltZXMtb2YtZ3JpbmRlbHdhbGQtMjAxOC05NzU1"
+    },
+    "T07" : {
+      "IdPhim" : "P07",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1tYXQtdnUtZ2lhaS1jdXUtaHVudGVyLWtpbGxlci0yMDE4LTEwODg4"
+    },
+    "T08" : {
+      "IdPhim" : "P08",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1tYS1udS1iYW8tb2FuLXRoZS13cmF0aC0yMDE4LTEwNzk5"
+    },
+    "T09" : {
+      "IdPhim" : "P09",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1jaHVuZy10YS1jdWEtc2F1LW5heS11cy1hbmQtdGhlbS0yMDE4LTEwMDY2"
+    },
+    "T10" : {
+      "IdPhim" : "P10",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS12YS1lbS1zZS1kZW4tYmUtd2l0aC15b3Utbm93LWktYW0tY29taW5nLXRvLXNlZS15b3UtMjAxOC0xMDg2Ng=="
+    },
+    "T11" : {
+      "IdPhim" : "P11",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1xdWFpLXRodS12by1oaW5oLXRoZS1wcmVkYXRvci0yMDE4LTEwNjYx"
+    },
+    "T12" : {
+      "IdPhim" : "P12",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1odXkta2V0LWJhbi0yLXdlYi1uZ2FtLXVuZnJpZW5kZWQtMi1kYXJrLXdlYi0yMDE4LTEwNTY1"
+    },
+    "T13" : {
+      "IdPhim" : "P13",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1kYS1xdXktcmFtcGFudC0yMDE4LTEwNzg4"
+    },
+    "T14" : {
+      "IdPhim" : "P14",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS12aS1zYW8tdnV0LXNhbmctYS1zdGFyLWlzLWJvcm4tMjAxOC0xMDgxNw=="
+    },
+    "T15" : {
+      "IdPhim" : "P15",
+      "TenTap" : "Full",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vcGhpbS1iaWV0LWRvaS1zaWV1LWFuaC1odW5nLTMtY3VvYy1jaGllbi12by1jdWMtYXZlbmdlcnMtMy1pbmZpbml0eS13YXItMjAxOC05Nzgz"
+    },
+    "T16" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 1",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtMS0xMDQ3Ml9lMTE1MjIyLmh0bWw="
+    },
+    "T17" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 2",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtMi0xMDQ3Ml9lMTE2MjQ3Lmh0bWw="
+    },
+    "T18" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 3",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtMy0xMDQ3Ml9lMTE2NjY5Lmh0bWw="
+    },
+    "T19" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 4",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtNC0xMDQ3Ml9lMTE3MDk4Lmh0bWw="
+    },
+    "T20" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 5",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtNS0xMDQ3Ml9lMTE3NTgwLmh0bWw="
+    },
+    "T21" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 6",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtNi0xMDQ3Ml9lMTE4MDE4Lmh0bWw="
+    },
+    "T22" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 7",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtNy0xMDQ3Ml9lMTE4NDg4Lmh0bWw="
+    },
+    "T23" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 8",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtOC0xMDQ3Ml9lMTE4OTgxLmh0bWw="
+    },
+    "T24" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 9",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtOS0xMDQ3Ml9lMTE5NjkyLmh0bWw="
+    },
+    "T25" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 10",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtMTAtMTA0NzJfZTEyMDYxMi5odG1s"
+    },
+    "T26" : {
+      "IdPhim" : "P16",
+      "TenTap" : "Tập 11",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbmdhLXF1eS12dW5nLXRva3lvLXBoYW4tNC10b2t5by1naG91bHJlLTJuZC1zZWFzb24tMjAxOC10YXAtMTEtMTA0NzJfZTEyMTQ3OC5odG1s"
+    },
+    "T27" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 1",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTEtMTA0OTJfZTExNTUzMi5odG1s"
+    },
+    "T28" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 2",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTItMTA0OTJfZTExNTU1My5odG1s"
+    },
+    "T29" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 3",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTMtMTA0OTJfZTExNTk0OS5odG1sCg=="
+    },
+    "T30" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 4",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTQtMTA0OTJfZTExNjM4NC5odG1s"
+    },
+    "T31" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 5",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTUtMTA0OTJfZTExNjc4MS5odG1s"
+    },
+    "T32" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 6",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTYtMTA0OTJfZTExNzI2OS5odG1s"
+    },
+    "T33" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 7",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTctMTA0OTJfZTExNzcwMS5odG1s"
+    },
+    "T34" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 8",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTgtMTA0OTJfZTExODE1Mi5odG1s"
+    },
+    "T35" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 9",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTktMTA0OTJfZTExODY3MS5odG1s"
+    },
+    "T36" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 10",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTEwLTEwNDkyX2UxMTkxMzIuaHRtbA=="
+    },
+    "T37" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 11",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTExLTEwNDkyX2UxMTk5NzQuaHRtbA=="
+    },
+    "T38" : {
+      "IdPhim" : "P17",
+      "TenTap" : "Tập 12 - End",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGluaC10aGFuLWJpZW4tMjAxOC1zdGVsbGFyLXRyYW5zZm9ybWF0aW9uLTIwMTgtdGFwLTEyLTEwNDkyX2UxMjEwMDIuaHRtbA=="
+    },
+    "T39" : {
+      "IdPhim" : "P18",
+      "TenTap" : "Tập 1",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbGFtLWxhaS1jdW9jLWRvaS1waGFuLTItcmVsaWZlLXNwZWNpYWwtZmluYWwtYXJjLXNlYXNvbi0yLTIwMTgtdGFwLTEtMTA4ODBfZTEyMDk1Mi5odG1s"
+    },
+    "T40" : {
+      "IdPhim" : "P18",
+      "TenTap" : "Tập 2",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbGFtLWxhaS1jdW9jLWRvaS1waGFuLTItcmVsaWZlLXNwZWNpYWwtZmluYWwtYXJjLXNlYXNvbi0yLTIwMTgtdGFwLTItMTA4ODBfZTEyMDk1OC5odG1s"
+    },
+    "T41" : {
+      "IdPhim" : "P18",
+      "TenTap" : "Tập 3",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbGFtLWxhaS1jdW9jLWRvaS1waGFuLTItcmVsaWZlLXNwZWNpYWwtZmluYWwtYXJjLXNlYXNvbi0yLTIwMTgtdGFwLTMtMTA4ODBfZTEyMDk1NC5odG1s"
+    },
+    "T42" : {
+      "IdPhim" : "P18",
+      "TenTap" : "Tập 4 - End",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vbGFtLWxhaS1jdW9jLWRvaS1waGFuLTItcmVsaWZlLXNwZWNpYWwtZmluYWwtYXJjLXNlYXNvbi0yLTIwMTgtdGFwLTQtMTA4ODBfZTEyMDk1Ni5odG1s"
+    },
+    "T43" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 1",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC0xLTEwODE5X2UxMTkzNzUuaHRtbA=="
+    },
+    "T44" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 2",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC0yLTEwODE5X2UxMTkzNzkuaHRtbA=="
+    },
+    "T45" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 3",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC0zLTEwODE5X2UxMTk0MjMuaHRtbA=="
+    },
+    "T46" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 4",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC00LTEwODE5X2UxMjAxMTQuaHRtbA=="
+    },
+    "T47" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 5",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC01LTEwODE5X2UxMjAyODAuaHRtbA=="
+    },
+    "T48" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 6",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC02LTEwODE5X2UxMjEwOTQuaHRtbA=="
+    },
+    "T49" : {
+      "IdPhim" : "P19",
+      "TenTap" : "Tập 7",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0vdGllbS1jYS1waGUtbWEtdGh1YXQtY29mZmVlLXBsZWFzZS0yMDE4LXRhcC03LTEwODE5X2UxMjEyMjYuaHRtbA=="
+    },
+    "T50" : {
+      "IdPhim" : "P20",
+      "TenTap" : "Tập 1",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0va3ktdWMtYWxoYW1icmEtbWVtb3JpZXMtb2YtdGhlLWFsaGFtYnJhLTIwMTgtdGFwLTEtMTA3OTNfZTExOTIwNS5odG1s"
+    },
+    "T51" : {
+      "IdPhim" : "P20",
+      "TenTap" : "Tập 2",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0va3ktdWMtYWxoYW1icmEtbWVtb3JpZXMtb2YtdGhlLWFsaGFtYnJhLTIwMTgtdGFwLTItMTA3OTNfZTExOTI0MS5odG1s"
+    },
+    "T52" : {
+      "IdPhim" : "P20",
+      "TenTap" : "Tập 3",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0va3ktdWMtYWxoYW1icmEtbWVtb3JpZXMtb2YtdGhlLWFsaGFtYnJhLTIwMTgtdGFwLTMtMTA3OTNfZTExOTI0My5odG1s"
+    },
+    "T53" : {
+      "IdPhim" : "P20",
+      "TenTap" : "Tập 4",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0va3ktdWMtYWxoYW1icmEtbWVtb3JpZXMtb2YtdGhlLWFsaGFtYnJhLTIwMTgtdGFwLTQtMTA3OTNfZTExOTQzNC5odG1s"
+    },
+    "T54" : {
+      "IdPhim" : "P20",
+      "TenTap" : "Tập 5",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0va3ktdWMtYWxoYW1icmEtbWVtb3JpZXMtb2YtdGhlLWFsaGFtYnJhLTIwMTgtdGFwLTUtMTA3OTNfZTEyMDE4Mi5odG1s"
+    },
+    "T55" : {
+      "IdPhim" : "P20",
+      "TenTap" : "Tập 6",
+      "URL" : "https://apiphimnow.cf?p=aHR0cDovL3BoaW1iYXRodS5jb20veGVtLXBoaW0va3ktdWMtYWxoYW1icmEtbWVtb3JpZXMtb2YtdGhlLWFsaGFtYnJhLTIwMTgtdGFwLTYtMTA3OTNfZTEyMDMyOC5odG1s"
+    }
+  },
+  "TheLoai" : {
+    "TL01" : {
+      "TenTL" : "Cổ Trang - Thần Thoại"
+    },
+    "TL02" : {
+      "TenTL" : "Võ Thuât - Kiếm Hiệp"
+    },
+    "TL03" : {
+      "TenTL" : "Phiêu Lưu - Hành Động"
+    },
+    "TL04" : {
+      "TenTL" : "Tâm Lý - Tình Cảm"
+    },
+    "TL05" : {
+      "TenTL" : "Khoa Học - Viễn Tưởng"
+    },
+    "TL06" : {
+      "TenTL" : "Hình Sự - Chiến Tranh"
+    },
+    "TL07" : {
+      "TenTL" : "Hài Hước"
+    },
+    "TL08" : {
+      "TenTL" : "Kinh Dị - Ma"
+    },
+    "TL09" : {
+      "TenTL" : "Gia Đình - Học Đường"
+    },
+    "TL10" : {
+      "TenTL" : "Trinh Thám"
+    },
+    "TL11" : {
+      "TenTL" : "TV Show"
+    },
+    "TL12" : {
+      "TenTL" : "Hoạt Hình"
+    }
+  },
+  "TheLoai_Phim" : {
+    "TLP01" : {
+      "IdPhim" : "P01",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP02" : {
+      "IdPhim" : "P01",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP03" : {
+      "IdPhim" : "P01",
+      "IdTheLoai" : "TL08"
+    },
+    "TLP04" : {
+      "IdPhim" : "P02",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP05" : {
+      "IdPhim" : "P02",
+      "IdTheLoai" : "TL08"
+    },
+    "TLP06" : {
+      "IdPhim" : "P03",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP07" : {
+      "IdPhim" : "P03",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP08" : {
+      "IdPhim" : "P04",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP09" : {
+      "IdPhim" : "P04",
+      "IdTheLoai" : "TL07"
+    },
+    "TLP10" : {
+      "IdPhim" : "P04",
+      "IdTheLoai" : "TL12"
+    },
+    "TLP11" : {
+      "IdPhim" : "P05",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP12" : {
+      "IdPhim" : "P05",
+      "IdTheLoai" : "TL07"
+    },
+    "TLP13" : {
+      "IdPhim" : "P06",
+      "IdTheLoai" : "TL01"
+    },
+    "TLP14" : {
+      "IdPhim" : "P06",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP15" : {
+      "IdPhim" : "P06",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP16" : {
+      "IdPhim" : "P07",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP17" : {
+      "IdPhim" : "P07",
+      "IdTheLoai" : "TL06"
+    },
+    "TLP18" : {
+      "IdPhim" : "P08",
+      "IdTheLoai" : "TL08"
+    },
+    "TLP19" : {
+      "IdPhim" : "P09",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP20" : {
+      "IdPhim" : "P10",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP21" : {
+      "IdPhim" : "P10",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP22" : {
+      "IdPhim" : "P11",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP23" : {
+      "IdPhim" : "P11",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP24" : {
+      "IdPhim" : "P12",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP25" : {
+      "IdPhim" : "P12",
+      "IdTheLoai" : "TL08"
+    },
+    "TLP26" : {
+      "IdPhim" : "P13",
+      "IdTheLoai" : "TL01"
+    },
+    "TLP27" : {
+      "IdPhim" : "P13",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP28" : {
+      "IdPhim" : "P13",
+      "IdTheLoai" : "TL08"
+    },
+    "TLP29" : {
+      "IdPhim" : "P14",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP30" : {
+      "IdPhim" : "P15",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP31" : {
+      "IdPhim" : "P15",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP32" : {
+      "IdPhim" : "P16",
+      "IdTheLoai" : "TL03"
+    },
+    "TLP33" : {
+      "IdPhim" : "P16",
+      "IdTheLoai" : "TL08"
+    },
+    "TLP34" : {
+      "IdPhim" : "P16",
+      "IdTheLoai" : "TL12"
+    },
+    "TLP35" : {
+      "IdPhim" : "P17",
+      "IdTheLoai" : "TL01"
+    },
+    "TLP36" : {
+      "IdPhim" : "P17",
+      "IdTheLoai" : "TL02"
+    },
+    "TLP37" : {
+      "IdPhim" : "P17",
+      "IdTheLoai" : "TL12"
+    },
+    "TLP38" : {
+      "IdPhim" : "P18",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP39" : {
+      "IdPhim" : "P18",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP40" : {
+      "IdPhim" : "P18",
+      "IdTheLoai" : "TL12"
+    },
+    "TLP41" : {
+      "IdPhim" : "P19",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP42" : {
+      "IdPhim" : "P19",
+      "IdTheLoai" : "TL05"
+    },
+    "TLP43" : {
+      "IdPhim" : "P19",
+      "IdTheLoai" : "TL07"
+    },
+    "TLP44" : {
+      "IdPhim" : "P20",
+      "IdTheLoai" : "TL04"
+    },
+    "TLP45" : {
+      "IdPhim" : "P20",
+      "IdTheLoai" : "TL05"
+    }
+  },
+  "YeuThich" : {
+    "YT01" : {
+      "IdPhim" : "P01",
+      "IdUser" : "U01"
+    }
+  }
+}

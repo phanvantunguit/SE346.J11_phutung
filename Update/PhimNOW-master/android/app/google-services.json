@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "75025085142",
+    "firebase_url": "https://phimnow-7f2b7.firebaseio.com",
+    "project_id": "phimnow-7f2b7",
+    "storage_bucket": "phimnow-7f2b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75025085142:android:061e3cd86207ca49",
+        "android_client_info": {
+          "package_name": "com.phimnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75025085142-jujjitlerp1882euc25n9oeaf75s9236.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uz_ge5bjjFLXHHWeizJsHXov4cEx-F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
